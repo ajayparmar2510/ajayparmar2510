@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay Parmar
 
-<!--
-**ajayparmar2510/ajayparmar2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Scientist & Machine Learning Developer  
+📊 Skilled in Python, Data Analysis, and Machine Learning  
+🚀 Passionate about building real-world data-driven solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Currently working on Data Science & ML projects  
+- 📚 Learning Machine Learning, Data Analytics & AI  
+- 💡 Interested in solving real-world problems using data  
+- 📁 Building a strong GitHub portfolio  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
+## 📊 Projects
+- Fraud Detection using Machine Learning  
+- Advanced Exploratory Data Analysis  
+- Data Cleaning & Feature Engineering Projects  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ajayparmar2510
