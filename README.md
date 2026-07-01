@@ -1,3 +1,13 @@
+## 🚀 Tech Stack Badges
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![NumPy](https://img.shields.io/badge/NumPy-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+
+
+
+
 # 👋 Hi, I'm Ajay Parmar
 
 🎓 Aspiring Data Scientist & Machine Learning Developer  
