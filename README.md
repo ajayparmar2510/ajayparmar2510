@@ -152,5 +152,21 @@ Python • Scikit-Learn • PCA • K-Means
 https://github.com/ajayparmar2510/DecodeLabs-Internship/tree/main/Project-03
 
 
+# 🤝 Connect With Me
+
+📧 **Email:** ajay88153025@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ajayparmar2510
+
+🐙 **GitHub:** https://github.com/ajayparmar2510
+
+
+---
+
+> **"Every dataset tells a story. My goal is to uncover it through analytics, visualization, and machine learning."**
+
+⭐ *Thank you for visiting my GitHub profile!*
+
+
 
 
