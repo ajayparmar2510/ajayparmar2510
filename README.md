@@ -1,14 +1,6 @@
 
 <img width="1600" height="640" alt="image" src="https://github.com/user-attachments/assets/cb14b789-bc14-4e11-ad22-cbc32d0aa151" />
 
-
-## 🚀 Tech Stack Badges
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
-
 <h1 align="center">
 Hi 👋 I'm Ajay Parmar
 </h1>
