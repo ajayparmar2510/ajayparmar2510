@@ -1,3 +1,7 @@
+
+<img width="1600" height="640" alt="image" src="https://github.com/user-attachments/assets/cb14b789-bc14-4e11-ad22-cbc32d0aa151" />
+
+
 ## 🚀 Tech Stack Badges
 
 ![Python](https://img.shields.io/badge/Python-blue)
